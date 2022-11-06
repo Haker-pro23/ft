@@ -23,8 +23,8 @@ if v7x2 == '1' :
         os.system ('clear')
         print ('')
         print ("Loading..........!")
-        os.system ('figlet Hk Free Fire ')
-fx9 = input (" \033[1;33mID Free Fire  ==> ")
+        os.system ('figlet Hk Facebook)
+fx9 = input (" \033[1;33mID Facebook  ==> ")
 fx9 = input (" \033[1;35mDo you want to follow  yes = y no = n  ==> ")
 if fx9 == 'y' :
         os.system ('python root2.py')
